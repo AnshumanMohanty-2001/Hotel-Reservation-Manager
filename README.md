@@ -1,2 +1,2 @@
-# Hotel-Reservation-Manager
-Leveraging Database Solutions for Hotel Management
+# Leveraging Database Solutions for Hotel Management
+
