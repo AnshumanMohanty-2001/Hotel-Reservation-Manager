@@ -1,0 +1,4 @@
+Flask==3.0.3
+Flask_Mail==0.9.1
+passlib==1.7.4
+pymongo==3.12.0
